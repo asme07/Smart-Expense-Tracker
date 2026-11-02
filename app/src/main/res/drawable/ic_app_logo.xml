@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <!-- Outer shield / background circle -->
+    <path
+        android:fillColor="@color/income_green"
+        android:pathData="M36,6C19.43,6 6,19.43 6,36s13.43,30 30,30 30,-13.43 30,-30S52.57,6 36,6zm0,54C22.75,60 12,49.25 12,36S22.75,12 36,12s24,10.75 24,24 -10.75,24 -24,24z" />
+    <!-- Dollar sign / growth graph -->
+    <path
+        android:fillColor="@color/income_green"
+        android:pathData="M38.5,29.5v-3.5h-5v3.5c-3.13,0.72 -5.5,2.77 -5.5,5.5 0,3.31 2.69,5.08 7.5,6.23 3.96,0.95 4.5,2.02 4.5,3.27 0,1.38 -1.22,2.5 -3.5,2.5 -2.13,0 -3.83,-0.92 -4.37,-2.5h-3.41c0.59,3.06 2.82,5.2 6.28,5.82v3.68h5v-3.62c3.27,-0.66 5.5,-2.72 5.5,-5.38 0,-3.45 -2.71,-5.12 -7.5,-6.26 -3.86,-0.92 -4.5,-2.23 -4.5,-3.24 0,-1.38 1.25,-2.5 3.5,-2.5 1.83,0 3.25,0.73 3.86,2h3.64c-0.56,-2.68 -2.48,-4.67 -5.5,-5.4z" />
+</vector>

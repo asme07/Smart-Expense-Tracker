@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Smart Expense</string>
+    <string name="app_full_name">Smart Expense &amp; Budget</string>
+    <string name="app_tagline">Master your money with ease</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Sign in to track your expenses and budgets</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Start your journey to financial freedom</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_instructions">Enter your registered email address to receive password reset instructions.</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="demo_login">Try Demo / Quick Login</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Dashboard -->
+    <string name="total_balance">Total Balance</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="remaining_budget">Remaining Budget</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See All</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="spending_overview">Monthly Spending Overview</string>
+
+    <!-- Transactions -->
+    <string name="transactions_title">Transaction History</string>
+    <string name="search_hint">Search description or category…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_income">Income</string>
+    <string name="filter_expense">Expense</string>
+    <string name="sort_by">Sort By</string>
+    <string name="new_transaction">New Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="description">Description / Notes</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="delete_transaction">Delete Transaction</string>
+
+    <!-- Budget -->
+    <string name="budget_title">Budget Management</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="edit_budget">Edit Budget</string>
+    <string name="overall_budget">Overall Monthly Budget</string>
+    <string name="category_budgets">Category Budgets</string>
+    <string name="monthly_limit">Monthly Limit</string>
+    <string name="spent">Spent</string>
+    <string name="remaining">Remaining</string>
+    <string name="budget_safe">Within Safe Limit</string>
+    <string name="budget_warning">80% Budget Reached!</string>
+    <string name="budget_exceeded">Budget Exceeded!</string>
+
+    <!-- Analytics -->
+    <string name="analytics_title">Financial Analytics</string>
+    <string name="expense_by_category">Expenses by Category</string>
+    <string name="income_vs_expense">Income vs Expense</string>
+    <string name="spending_trends">Spending Trend</string>
+    <string name="top_spending_category">Top Spending Category</string>
+    <string name="total_savings">Net Savings</string>
+    <string name="savings_rate">Savings Rate</string>
+
+    <!-- Profile -->
+    <string name="profile_title">User Profile</string>
+    <string name="currency_preference">Currency Preference</string>
+    <string name="theme_setting">App Theme</string>
+    <string name="export_csv">Export Transactions (CSV)</string>
+    <string name="export_pdf">Export Statement (PDF)</string>
+    <string name="sync_cloud">Sync with Cloud</string>
+    <string name="about_app">About Smart Expense App</string>
+    <string name="logout">Log Out</string>
+    <string name="logout_confirmation">Are you sure you want to log out?</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_transactions">No transactions recorded yet.</string>
+    <string name="no_budgets">No budgets set. Tap + to set a spending limit!</string>
+</resources>

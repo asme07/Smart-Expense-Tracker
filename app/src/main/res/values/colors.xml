@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Navy Colors -->
+    <color name="primary">#0F172A</color>          <!-- Slate 900 -->
+    <color name="primary_dark">#020617</color>     <!-- Slate 950 -->
+    <color name="primary_variant">#1E293B</color>  <!-- Slate 800 -->
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary / Electric Blue Accents -->
+    <color name="secondary">#3B82F6</color>        <!-- Blue 500 -->
+    <color name="secondary_dark">#1D4ED8</color>   <!-- Blue 700 -->
+    <color name="secondary_light">#DBEAFE</color>  <!-- Blue 100 -->
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Income & Financial Positives (Emerald Green) -->
+    <color name="income_green">#10B981</color>
+    <color name="income_green_dark">#047857</color>
+    <color name="income_green_bg">#ECFDF5</color>
+    <color name="income_green_border">#A7F3D0</color>
+
+    <!-- Expense & Financial Negatives (Rose / Coral Red) -->
+    <color name="expense_red">#EF4444</color>
+    <color name="expense_red_dark">#B91C1C</color>
+    <color name="expense_red_bg">#FEF2F2</color>
+    <color name="expense_red_border">#FECACA</color>
+
+    <!-- Budget Warning & Alerts (Amber / Orange) -->
+    <color name="warning_amber">#F59E0B</color>
+    <color name="warning_amber_dark">#B45309</color>
+    <color name="warning_amber_bg">#FFFBEB</color>
+
+    <!-- Category Accents -->
+    <color name="cat_salary">#10B981</color>
+    <color name="cat_freelance">#06B6D4</color>
+    <color name="cat_business">#3B82F6</color>
+    <color name="cat_investments">#8B5CF6</color>
+    <color name="cat_food">#F97316</color>
+    <color name="cat_shopping">#EC4899</color>
+    <color name="cat_transport">#6366F1</color>
+    <color name="cat_education">#14B8A6</color>
+    <color name="cat_entertainment">#A855F7</color>
+    <color name="cat_healthcare">#EF4444</color>
+    <color name="cat_bills">#EAB308</color>
+    <color name="cat_travel">#0EA5E9</color>
+    <color name="cat_other">#64748B</color>
+
+    <!-- Backgrounds & Surfaces (Light) -->
+    <color name="background">#F8FAFC</color>       <!-- Slate 50 -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_card_stroke">#E2E8F0</color>
+    <color name="card_elevated">#FFFFFF</color>
+
+    <!-- Typography (Light Mode) -->
+    <color name="text_primary">#0F172A</color>     <!-- Slate 900 -->
+    <color name="text_secondary">#64748B</color>   <!-- Slate 500 -->
+    <color name="text_muted">#94A3B8</color>       <!-- Slate 400 -->
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_on_dark_subtle">#94A3B8</color>
+
+    <!-- Dividers & Borders -->
+    <color name="divider">#E2E8F0</color>
+    <color name="input_stroke">#CBD5E1</color>
+    <color name="input_bg">#F8FAFC</color>
+
+    <!-- Overlay & Shadows -->
+    <color name="scrim">#80000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
